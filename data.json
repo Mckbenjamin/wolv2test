@@ -1,0 +1,29 @@
+{
+  "utilisateurs": {
+    "test22200": {
+      "buddy": "Ben`S`"
+    },
+    "senji": {
+      "buddy": "Ben`S`"
+    }
+  },
+  "channel": {
+    "#Lob_33_0": {
+      "users": "@Ra2bot,1,1"
+    },
+    "test22200's_game": {
+      "IP": "336657550",
+      "MAP": "0::g12N39,1878366581,1,0,0,MP02T2.MAP",
+      "PARAM": "0 0 33 0 1",
+      "NAME": "#test22200's_game",
+      "TOPIC": ""
+    },
+    "senji's_game": {
+      "IP": "336657550",
+      "MAP": "0::g12N39,1878366581,1,0,0,MP02T2.MAP",
+      "PARAM": "0 0 33 0 1",
+      "NAME": "#senji's_game",
+      "TOPIC": ""
+    }
+  }
+}
