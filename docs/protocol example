@@ -1,0 +1,179 @@
+CVERS 11014 8451
+PASS supersecret
+NICK test22200
+apgar atGGGGGI 0
+SERIAL 0266108098795816263248
+USER UserName HostName irc.westwood.com :RealName
+verchk 32515 720910
+SETOPT 17,33
+PING :942582
+: 375 u :- Hello :)
+: 376 u :End of /MOTD command
+: 379 u :none none none 1 32515 NONREQ
+PONG :942582
+
+SETCODEPAGE 1252
+GETLOCALE test22200
+: 309 test22200 test22200`2
+SETOPT 17,33
+SQUADINFO 0
+LIST 0 33
+PING :942582
+: 375 u :- Hello :)
+: 376 u :End of /MOTD command
+: 379 u :none none none 1 32515 NONREQ
+: 439
+PONG :942582
+
+: 321 test22200 #Lob_33_0 :test 
+: 327 test22200 #Lob_33_0 0 1 388:
+: 323 test22200 :End of /LIST
+: 353 test22200 #Lob_33_0 :@Ra2bot,1,1,0,0
+: 366 u #Lob_33_0 :End of /NAMES list
+: 321 test22200 #Lob_33_0 :test 
+: 327 test22200 #Lob_33_0 0 2436:
+: 323 test22200 :End of /LIST
+: 353 test22200 #Lob_33_0 :@Ra2bot,1,1
+: 366 u #Lob_33_0 :End of /NAMES list
+JOIN #Lob_33_0 zotclot9
+:test22200!RAL2@192.168.1.25 JOIN :0,3232235801 #Lob_33_0
+: 366 u #Lob_33_0 :End of /NAMES list
+LIST 0 33
+: 321 test22200 #Lob_33_0 :test 
+: 327 test22200 #Lob_33_0 0 2436:
+: 323 test22200 :End of /LIST
+: 353 test22200 #Lob_33_0 :@Ra2bot,1,1 test22200
+: 366 u #Lob_33_0 :End of /NAMES list
+SQUADINFO 1
+: 439
+: 321 test22200 #Lob_33_0 :test 
+: 327 test22200 #Lob_33_0 0 1 388:
+: 323 test22200 :End of /LIST
+: 353 test22200 #Lob_33_0 :@Ra2bot,1,1 test22200,0,0
+: 366 u #Lob_33_0 :End of /NAMES list
+GETCODEPAGE test22200
+ Ra2bot test22200
+LIST 33 33
+GETLOCALE r: 321 u:
+: 326 test22200 #test22200's_game 0 0 33 0 1 336657550 0::g12N39,1878366581,1,0,0,MP02T2.MAP
+: 326 test22200 #senji's_game 0 0 33 0 1 336657550 0::g12N39,1878366581,1,0,0,MP02T2.MAP
+: 323 test22200 :End of /LIST
+a2bot test22200
+GETCODEPAGE test22200 Ra2bot
+: 328 test22200 senji`1252
+PART #Lob_33_0
+:test22200!RAL2@192.168.1.25 PART #Lob_33_0
+JOINGAME #test22200's_game 1 5 33 3 1 0 0 
+: PAGE test22200 :you are now tempOP for this channel
+:test22200!RAL2@192.168.1.25 JOINGAME 1 5 33 3 0 3232235801 0 :#test22200's_game
+: 332 u #test22200's_game :g12N39,1878366581,0,0,0,MP02T2.MAP
+: 353 u * #test22200's_game :@test22200,0 3232235801
+: 366 u #test22200's_game :End of /NAMES list
+TOPIC #test22200's_game :g15N39,1878366581,0,0,0,MP02T2.MAP
+TOPIC #test22200's_game :g15N39,1878366581,0,0,0,MP02T2.MAP
+GAMEOPT test22200 :R2,-2,1901a8c0,1,62c
+: 332 test22200 #test22200's_game :g15N39,1878366581,0,0,0,MP02T2.MAP
+: 332 test22200 #test22200's_game :g15N39,1878366581,0,0,0,MP02T2.MAP
+:test22200!RAL2@192.168.1.25 GAMEOPT test22200 :R2,-2,1901a8c0,1,62c
+GAMEOPT #test22200's_game :1375260843,0,0,10000,10,1,1,1,1,1,1,.........................................,2,1,204050,MP02T2.MAP,LdvyXBS7yJM7UaMx08ULkwGzA+0=:test22200,2,-2,1901a8c0,1,0:@:0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,
+TOPIC #test22200's_game :g15N39,1878366581,0,0,0,MP02T2.MAP
+GAMEOPT #test22200's_game :1375260843,0,0,10000,10,1,1,1,1,1,1,.........................................,2,1,204050,MP02T2.MAP,LdvyXBS7yJM7UaMx08ULkwGzA+0=:test22200,2,-2,1901a8c0,1,0:@:0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,
+mode #test22200's_game +l 2
+TOPIC #test22200's_game :g15N39,1878366581,0,0,0,MP02T2.MAP
+TOPIC #test22200's_game :g12N39,1878366581,0,0,0,MP02T2.MAP
+:test22200!RAL2@192.168.1.25 GAMEOPT #test22200's_game :1375260843,0,0,10000,10,1,1,1,1,1,1,..............................................................................................,2,1,204050,MP02T2.MAP,LdvyXBS7yJM7UaMx08ULkwGzA+0=:test22200,2,-2,1901a8c0,1,0:@:0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,
+: 332 test22200 #test22200's_game :g15N39,1878366581,0,0,0,MP02T2.MAP
+:test22200!RAL2@192.168.1.25 GAMEOPT #test22200's_game :1375260843,0,0,10000,10,1,1,1,1,1,1,..........................................................................................,2,1,204050,MP02T2.MAP,LdvyXBS7yJM7UaMx08ULkwGzA+0=:test22200,2,-2,1901a8c0,1,0:@:0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,
+:test22200!RAL2@192.168.1.25 MODE #test22200's_game +l 2
+: 332 test22200 #test22200's_game :g15N39,1878366581,0,0,0,MP02T2.MAP
+: 332 test22200 #test22200's_game :g12N39,1878366581,0,0,0,MP02T2.MAP
+GETCODEPAGE test22200
+: 328 test22200 senji`1252
+GAMEOPT #test22200's_game :1375260843,0,0,10000,10,1,1,1,1,1,1,.........................................,2,1,204050,MP02T2.MAP,LdvyXBS7yJM7UaMx08ULkwGzA+0=:test22200,2,-2,1901a8c0,1,0:@:0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,
+:test22200!RAL2@192.168.1.25 GAMEOPT #test22200's_game :1375260843,0,0,10000,10,1,1,1,1,1,1,..............................................................................................,2,1,204050,MP02T2.MAP,LdvyXBS7yJM7UaMx08ULkwGzA+0=:test22200,2,-2,1901a8c0,1,0:@:0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,
+GAMEOPT #test22200's_game :P1,test22200,0
+:test22200!RAL2@192.168.1.25 GAMEOPT #test22200's_game :P1,test22200,0
+GAMEOPT #test22200's_game :1375260843,0,0,10000,10,1,1,1,1,1,1,.........................................,2,1,204050,MP02T2.MAP,LdvyXBS7yJM7UaMx08ULkwGzA+0=:test22200,2,-2,1901a8c0,1,0:@:0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,
+:test22200!RAL2@192.168.1.25 GAMEOPT #test22200's_game :1375260843,0,0,10000,10,1,1,1,1,1,1,..............................................................................................,2,1,204050,MP02T2.MAP,LdvyXBS7yJM7UaMx08ULkwGzA+0=:test22200,2,-2,1901a8c0,1,0:@:0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,
+: 309 senji senji`2
+: 328 senji senji`1252
+: 328 u senji test22200`1252
+TOPIC #test22200's_game :g12N39,1878366581,0,0,0,MP02T2.MAP
+: 332 test22200 #test22200's_game :g12N39,1878366581,0,0,0,MP02T2.MAP
+: 328 senji senji`1252
+: 328 u senji test22200`1252
+GAMEOPT #test22200's_game :P1,test22200,0
+:test22200!RAL2@192.168.1.25 GAMEOPT #test22200's_game :P1,test22200,0
+GETLOCALE ra2bot
+GAMEOPT #test22200's_game :1375260843,0,0,10000,10,1,1,1,1,1,1,.........................................,2,1,204050,MP02T2.MAP,LdvyXBS7yJM7UaMx08ULkwGzA+0=:test22200,2,-2,1901a8c0,1,0:@:0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,
+:test22200!RAL2@192.168.1.25 GAMEOPT #test22200's_game :1375260843,0,0,10000,10,1,1,1,1,1,1,..............................................................................................,2,1,204050,MP02T2.MAP,LdvyXBS7yJM7UaMx08ULkwGzA+0=:test22200,2,-2,1901a8c0,1,0:@:0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,
+:senji!RAL2@192.168.1.25 PART #Lob_33_0
+:senji!RAL2@192.168.1.25 JOINGAME 1 5 33 1 0 3232235801 0 #test22200's_game
+: 332 senji #test22200's_game  :g12N39,246518484,1,0,0,MP02T2.MAP
+: 353 senji * #test22200's_game :senji,0,1142700218 @test22200,0,1142700218
+: 366 senji #test22200's_game :End of NAMES list
+mode #test22200's_game +l 2
+TOPIC #test22200's_game :g12N39,1878366581,0,0,0,MP02T2.MAP
+GAMEOPT #test22200's_game :O7
+GAMEOPT #test22200's_game :Ltest22200,senji,@Open@,@Open@,@Closed@,@Closed@,@Closed@,@Closed@,
+GAMEOPT #test22200's_game :1375260843,0,0,10000,10,1,1,1,1,1,1,.........................................,2,1,204050,MP02T2.MAP,LdvyXBS7yJM7UaMx08ULkwGzA+0=:test22200,2,-2,1901a8c0,1,0,senji,-2,-2,1501a8c0,1,0:@:0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,
+GAMEOPT #test22200's_game :P2,test22200,0,senji,0
+GAMEOPT test22200 :R2,-2,1901a8c0,1,62c
+:test22200!RAL2@192.168.1.25 MODE #test22200's_game +l 2
+: 332 test22200 #test22200's_game :g12N39,1878366581,0,0,0,MP02T2.MAP
+:test22200!RAL2@192.168.1.25 GAMEOPT #test22200's_game :O7
+:test22200!RAL2@192.168.1.25 GAMEOPT #test22200's_game :Ltest22200,senji,@Open@,@Open@,@Closed@,@Closed@,@Closed@,@Closed@,
+:test22200!RAL2@192.168.1.25 GAMEOPT #test22200's_game :1375260843,0,0,10000,10,1,1,1,1,1,1,..........................................................................................,2,1,204050,MP02T2.MAP,LdvyXBS7yJM7UaMx08ULkwGzA+0=:test22200,2,-2,1901a8c0,1,0,senji,-2,-2,1501a8c0,1,0:@:0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,
+:test22200!RAL2@192.168.1.25 GAMEOPT #test22200's_game :P2,test22200,0,senji,0
+:test22200!RAL2@192.168.1.25 GAMEOPT test22200 :R2,-2,1901a8c0,1,62c
+:senji!RAL2@192.168.1.25 GAMEOPT test22200 :R-2,-2,1501a8c0,1,578
+:senji!RAL2@192.168.1.25 GAMEOPT #test22200's_game :K1
+GETCODEPAGE test22200
+: 328 test22200 senji`1252
+: 328 test22200 senji`1252
+GAMEOPT #test22200's_game :P2,test22200,1000,senji,1000
+:test22200!RAL2@192.168.1.25 GAMEOPT #test22200's_game :P2,test22200,1000,senji,1000
+GAMEOPT #test22200's_game :1375260843,0,0,10000,10,1,1,1,1,1,1,.........................................,2,1,204050,MP02T2.MAP,LdvyXBS7yJM7UaMx08ULkwGzA+0=:test22200,2,-2,1901a8c0,1,62c,senji,-2,-2,1501a8c0,1,578:@:0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,
+:test22200!RAL2@192.168.1.25 GAMEOPT #test22200's_game :1375260843,0,0,10000,10,1,1,1,1,1,1,..............................................................................................,2,1,204050,MP02T2.MAP,LdvyXBS7yJM7UaMx08ULkwGzA+0=:test22200,2,-2,1901a8c0,1,62c,senji,-2,-2,1501a8c0,1,578:@:0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,
+GAMEOPT #test22200's_game :G
+:test22200!RAL2@192.168.1.25 GAMEOPT #test22200's_game :G
+GAMEOPT #test22200's_game :P2,test22200,1000,senji,1000
+:test22200!RAL2@192.168.1.25 GAMEOPT #test22200's_game :P2,test22200,1000,senji,1000
+TOPIC #test22200's_game :g12N39,1878366581,0,0,0,MP02T2.MAP
+: 332 test22200 #test22200's_game :g12N39,1878366581,0,0,0,MP02T2.MAP
+:senji!RAL2@192.168.1.25 GAMEOPT #test22200's_game :A1
+GAMEOPT #test22200's_game :Ltest22200,senji,@Open@,@Open@,@Closed@,@Closed@,@Closed@,@Closed@,
+GAMEOPT #test22200's_game :1375260843,0,0,10000,10,1,1,1,1,1,1,.........................................,2,1,204050,MP02T2.MAP,LdvyXBS7yJM7UaMx08ULkwGzA+0=:test22200,2,6,1901a8c0,1,62c,senji,2,2,1501a8c0,1,578:@:0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,
+TOPIC #test22200's_game :G12N39,1878366581,0,0,0,MP02T2.MAP
+STARTG #test22200's_game senji,test22200
+:test22200!RAL2@192.168.1.25 GAMEOPT #test22200's_game :Ltest22200,senji,@Open@,@Open@,@Closed@,@Closed@,@Closed@,@Closed@,
+:test22200!RAL2@192.168.1.25 GAMEOPT #test22200's_game :1375260843,0,0,10000,10,1,1,1,1,1,1,..........................................................................................,2,1,204050,MP02T2.MAP,LdvyXBS7yJM7UaMx08ULkwGzA+0=:test22200,2,6,1901a8c0,1,62c,senji,2,2,1501a8c0,1,578:@:0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,
+: 332 test22200 #test22200's_game :G12N39,1878366581,0,0,0,MP02T2.MAP
+:test22200!RAL2@192.168.1.25 STARTG test22200 :senji 192.168.1.21 test22200 192.168.1.25 :200 1720862993 
+:senji!RAL2@192.168.1.25 GAMEOPT #test22200's_game :A0
+:senji!RAL2@192.168.1.25 GAMEOPT #test22200's_game :Z1;test22200
+GAMEOPT #test22200's_game :Z1;senji
+:senji!RAL2@192.168.1.25 GAMEOPT #test22200's_game :Z12test22200
+:senji!RAL2@192.168.1.25 GAMEOPT #test22200's_game :Z13test22200
+GAMEOPT #test22200's_game :1375260843,0,0,10000,10,1,1,1,1,1,1,.........................................,2,1,204050,MP02T2.MAP,LdvyXBS7yJM7UaMx08ULkwGzA+0=:test22200,2,6,1901a8c0,1,0,senji,2,2,1501a8c0,1,0:@:0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,
+TOPIC #test22200's_game :G12N39,1878366581,0,0,0,MP02T2.MAP
+:test22200!RAL2@192.168.1.25 GAMEOPT #test22200's_game :1375260843,0,0,10000,10,1,1,1,1,1,1,..............................................................................................,2,1,204050,MP02T2.MAP,LdvyXBS7yJM7UaMx08ULkwGzA+0=:test22200,2,6,1901a8c0,1,0,senji,2,2,1501a8c0,1,0:@:0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,-1,
+: 332 test22200 #test22200's_game :G12N39,1878366581,0,0,0,MP02T2.MAP
+GAMEOPT #test22200's_game :P2,test22200,1000,senji,1000
+
+QUIT
+: 602 u :Update record non-existant
+: 602 u :Update record non-existant
+: 610 u 1
+: 605 u :192.168.1.25 4005 '0:Live ra2' -8 36.1083 -115.0582
+: 605 u :192.168.1.25 4000 'Live chat server' -8 36.1083 -115.0582
+: 608 u :192.168.1.25 4807 'Gameres server' -8 36.1083 -115.0582
+: 609 u :192.168.1.25 4005 'Ladder server' -8 36.1083 -115.0582
+: 607 u :goodbye: 602 u :Update record non-existant
+: 602 u :Update record non-existant
+: 610 u 1
+: 605 u :192.168.1.25 4005 '0:Live ra2' -8 36.1083 -115.0582
+: 605 u :192.168.1.25 4000 'Live chat server' -8 36.1083 -115.0582
+: 608 u :192.168.1.25 4807 'Gameres server' -8 36.1083 -115.0582
+: 609 u :192.168.1.25 4005 'Ladder server' -8 36.1083 -115.0582
+: 607 u :goodbye
